@@ -1,1 +1,4 @@
+future_branch1
 checking file6.txt
+making changes in file
+master
